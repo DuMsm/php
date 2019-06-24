@@ -1,0 +1,2 @@
+"# php"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/DuMsm/php.gitgit push -u origin master
+"# php"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/DuMsm/php.gitgit push -u origin master
